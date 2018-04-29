@@ -13,7 +13,7 @@ becomes
 
 `<div><?=__('Some text to be translated')?></div>`
 
-\!\[Localize\]\(images/2018-04-28_20_39_12.gif\)
+![Localize](images/2018-04-28_20_39_12.gif)
 
 ## Known Issues
 
