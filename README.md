@@ -1,7 +1,7 @@
 # loclz README
 
 Localization in PHP is done using the __ function. 
-Instead of rwiting literal text, the text is wrapped in __('Some text to translate'). This extension is a convenient way to wrap the text.
+Instead of writing literal text, the text is wrapped in __('Some text to translate'). This extension is a convenient way to wrap the text.
 
 ## Features
 
